@@ -1,0 +1,78 @@
+.box{
+    width: 50%;
+    background-color:rgb(240, 136, 171);
+    align-self: center;
+    display: block;
+    margin: 100px auto;
+    border-radius: 10px;
+    padding-bottom: 50px;
+    box-shadow: 5px 10px 20px black;
+  }
+  
+  .title {
+    width: 100%;
+    height: 150px;
+    font-size: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .inputField {
+    text-align: center;
+    padding: 15px;
+    margin: 0 auto;
+    font-size: 1.2em;
+    color: #333;
+  }
+  
+  input {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+    padding: 5px;
+    width: 50%;
+    height: 10px;
+    border-radius: 5px;
+    outline: none;
+    border: 3px solid steelblue;
+  }
+  
+  
+  
+  
+  .notification {
+    color:red;
+    font: bold;
+    font-size: 1.2em;
+    margin: 0;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
+  
+  
+  .tempp {
+    width: 100%;
+    height: 60px;
+   
+  }
+  
+  .tempp,.location,.tempmin_max{
+    margin-top: 5px;
+    padding: 5px;
+    margin: 0;
+    font-size:2em;
+    text-align: center;
+    color: whitesmoke;
+  }
+  
+  .info{
+      margin-top: 10px;
+     
+
+  }
+  
+  
